@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 18,
+        "supported_formats": {
+            "min_inclusive": 17, 
+            "max_inclusive": 24
+        },
+        "description": "Fixes Mojang's math in the splash texts"
+    }
+}
